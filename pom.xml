@@ -14,7 +14,7 @@
     </properties>
     <scm>
         <url>https://github.com/tobiassodergren/geometry-enhanced/tree/${scm.branch}</url>
-        <connection>scm:git:git://github.com/tobiassodergren/geometry-enhanced.git</connection>
+        <connection>scm:git:https://github.com/tobiassodergren/geometry-enhanced.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/tobiassodergren/geometry-enhanced.git</developerConnection>
     </scm>
     <licenses>
